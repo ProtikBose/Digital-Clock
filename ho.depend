@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1462986446 source:c:\users\freedom\downloads\igraphics\igraphics\myigraphics\imain.cpp
+	"iGraphics.h"
+
+1462713975 c:\users\freedom\downloads\igraphics\igraphics\myigraphics\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+
+1463068748 source:c:\users\freedom\downloads\igraphics\igraphics\myigraphics\an.cpp
+	"iGraphics.h"
+	<time.h>
+
