@@ -8,4 +8,6 @@ iGraphics.h header file contains some drawing functions that can be used to draw
 
 Here is the final [result](https://www.youtube.com/watch?v=VwH5RtQB3Ck&feature=youtu.be)
 
+[![Watch the video](https://img.youtube.com/vi/VwH5RtQB3Ck/maxresdefault.jpg)](https://youtu.be/VwH5RtQB3Ck)
+
 
